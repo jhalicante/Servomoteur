@@ -50,4 +50,4 @@ L'alimentation du servo-moteur sur +5V et GND de l'arduino, et le fil pilote sur
 
 ## Démonstration :
 
-[![ScreenShot](https://i.ytimg.com/vi_webp/jSLlbobQq9Q/mqdefault.webp)](https://www.youtube.com/watch?v=jSLlbobQq9Q&feature=youtu.be)
+[![ScreenShot](https://i.ytimg.com/vi/jSLlbobQq9Q/mqdefault.jpg)](https://www.youtube.com/watch?v=jSLlbobQq9Q&feature=youtu.be)
