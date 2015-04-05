@@ -31,7 +31,7 @@ Connexion de l'Arduino via USB, chargez via l'API d'Arduino **Example > Firmdata
 ```
 node app.js
 ```
-L'application établie un connexion avec l'Arduino
+L'application établie une connexion avec l'Arduino
 Le Servo-moteur s'initialise
 
 
