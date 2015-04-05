@@ -46,3 +46,8 @@ l'application vous envoie une page web avec un curseur et l'affichage de l'angle
 # branchement du Servo-moteur sur l'Arduino:
 
 L'alimentation du servo-moteur sur +5V et GND de l'arduino, et le fil pilote sur le pin 9 (PWM)
+[!Arduino](https://raw.githubusercontent.com/manuel-CQE/Servomoteur/master/doc/Arduino-ServoMoteur.png)
+
+## Démonstration :
+
+[![ScreenShot](https://i.ytimg.com/vi_webp/jSLlbobQq9Q/mqdefault.webp)](https://www.youtube.com/watch?v=jSLlbobQq9Q&feature=youtu.be)
