@@ -40,7 +40,7 @@ le Servo-moteur s'initialise
 ```
 localhost:3000
 ```
-l'application vous envoie une page web avec un curseur et affichage l'angle correspondant.
+l'application vous envoie une page web avec un curseur et affiche l'angle correspondant.
 Vous pouvez utilser les fleches gauche et droite ou la souris.
 
 
