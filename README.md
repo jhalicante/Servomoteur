@@ -3,7 +3,7 @@
 Arduino + Servo-moteur + node.js + Johnny-five 
 ========================================================
 
-contrôle d'un servo-moteur via l'interface web:
+Contrôlez un servo-moteur via l'interface web:
 
 
 ## Installation 
@@ -14,7 +14,7 @@ cd Servomoteur
 npm install
 ```
 
-Modules utilsés
+Modules utilisés
 
 * johnny-five
 * express
@@ -31,20 +31,20 @@ Connexion de l'Arduino via USB, chargez via l'API d'Arduino **Example > Firmdata
 ```
 node app.js
 ```
-l'application établie un connexion avec l'Arduino
-le Servo-moteur s'initialise
+L'application établie un connexion avec l'Arduino
+Le Servo-moteur s'initialise
 
 
-## utilisation via votre navigateur : 
+## Utilisation via votre navigateur : 
 
 ```
 localhost:3000
 ```
-l'application vous envoie une page web avec un curseur et affiche l'angle correspondant.
+L'application vous envoie une page web avec un curseur et affiche l'angle correspondant.
 Vous pouvez utilser les fleches gauche et droite ou la souris.
 
 
-# branchement du Servo-moteur sur l'Arduino:
+# Branchement du Servo-moteur sur l'Arduino:
 
 L'alimentation du servo-moteur sur +5V et GND de l'arduino, et le fil pilote sur le pin 9 (PWM)
 ![Arduino](https://raw.githubusercontent.com/manuel-CQE/Servomoteur/master/doc/Arduino-ServoMoteur.png)
